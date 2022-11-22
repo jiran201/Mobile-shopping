@@ -1,4 +1,4 @@
-# jingdong
+# Mobile shopping
 
 ## Project setup
 ```
